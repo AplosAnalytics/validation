@@ -12,7 +12,7 @@
             "description": "tesing single dose iv bolus",
             "config": "test2_config_single_IV_bolus.json",
             "input": "test2_data_single_iv_bolus.csv",
-            "expected_results": ""
+            "expected_results": "test2_pk-results_single_iv_bolus.csv"
         },
         {
             "name": "test3",
