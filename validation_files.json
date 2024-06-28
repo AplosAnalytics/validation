@@ -1,0 +1,47 @@
+{
+    "tests":  [
+        {
+            "name": "test1",
+            "description": "testing single dose ev",
+            "config": "test1_config_single_ev.json",
+            "input": "test1_data_single_ev.csv",
+            "expected_results": "test1_pk-results_single_ev.csv"
+        },
+        {
+            "name": "test2",
+            "description": "tesing single dose iv bolus",
+            "config": "test2_config_single_IV_bolus.json",
+            "input": "test2_data_single_iv_bolus.csv",
+            "expected_results": ""
+        },
+        {
+            "name": "test3",
+            "description": "testing single dose iv infusion",
+            "config": "test3_config_single_iv_infusion.json",
+            "input": "test3_data_single_iv_infusion.csv",
+            "expected_results": "test3_pk-results_single_iv_infusion.csv"
+        },
+        {
+            "name": "test4",
+            "description": "testing steady state ev",
+            "config": "test4_config_ss_ev.json",
+            "input": "test4_data_ss_ev.csv",
+            "expected_results": "test4_pk-results_ss_ev.csv"
+        },
+        {
+            "name": "test5",
+            "description": "testing steady state iv bolus",
+            "config": "test5_config_ss_iv_bolus.json",
+            "input": "test5_data_ss_iv_bolus.csv",
+            "expected_results": "test5_pk-results_ss_iv_bolus.csv"
+        },
+        {
+            "name": "test6",
+            "description": "testing steady state iv infusion",
+            "config": "test6_config_ss_iv_infusion.json",
+            "input": "test6_data_ss_iv_infusion.csv",
+            "expected_results": "test6_pk-results_ss_iv_infusion.csv"
+        }
+
+    ]
+}
