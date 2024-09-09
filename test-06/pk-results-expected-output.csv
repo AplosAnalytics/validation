@@ -1,4 +1,4 @@
-subject,paramcd,value,group
+subject,paramcd,value,kel_group
 1,Dose,1000,0
 1,Dose_time,0,0
 1,N_samp,12,0
