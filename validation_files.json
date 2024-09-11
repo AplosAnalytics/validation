@@ -1,42 +1,42 @@
 {
     "tests":  [
         {
-            "name": "test-01",
+            "name": "Test Case 1: Single EV",
             "description": "single dose ev",
             "config_file": "https://raw.githubusercontent.com/AplosAnalytics/validation/main/test-01/config.json",
             "input_file": "https://raw.githubusercontent.com/AplosAnalytics/validation/main/test-01/input.csv",
             "expected_results_file": "https://raw.githubusercontent.com/AplosAnalytics/validation/main/test-01/pk-results-expected-output.csv"
         },
         {
-            "name": "test-02",
+            "name": "Test Case 2: Single IV Bolus",
             "description": "single dose iv bolus",
             "config_file": "https://raw.githubusercontent.com/AplosAnalytics/validation/main/test-02/config.json",
             "input_file": "https://raw.githubusercontent.com/AplosAnalytics/validation/main/test-02/input.csv",
             "expected_results_file": "https://raw.githubusercontent.com/AplosAnalytics/validation/main/test-02/pk-results-expected-output.csv"
         },
         {
-            "name": "test-03",
+            "name": "Test Case 3: Single IV Infusion",
             "description": "single dose iv infusion",
             "config_file": "https://raw.githubusercontent.com/AplosAnalytics/validation/main/test-03/config.json",
             "input_file": "https://raw.githubusercontent.com/AplosAnalytics/validation/main/test-03/input.csv",
             "expected_results_file": "https://raw.githubusercontent.com/AplosAnalytics/validation/main/test-03/pk-results-expected-output.csv"
         },
         {
-            "name": "test-04",
+            "name": "Test Case 4: Steady state EV",
             "description": "steady state ev",
             "config_file": "https://raw.githubusercontent.com/AplosAnalytics/validation/main/test-04/config.json",
             "input_file": "https://raw.githubusercontent.com/AplosAnalytics/validation/main/test-04/input.csv",
             "expected_results_file": "https://raw.githubusercontent.com/AplosAnalytics/validation/main/test-04/pk-results-expected-output.csv"
         },
         {
-            "name": "test-05",
+            "name": "Test Case 5: Steady state IV Bolus",
             "description": "steady state iv bolus",
             "config_file": "https://raw.githubusercontent.com/AplosAnalytics/validation/main/test-05/config.json",
             "input_file": "https://raw.githubusercontent.com/AplosAnalytics/validation/main/test-05/input.csv",
             "expected_results_file": "https://raw.githubusercontent.com/AplosAnalytics/validation/main/test-05/pk-results-expected-output.csv"
         },
         {
-            "name": "test-06",
+            "name": "Test Case 6: Steady state IV Infusion",
             "description": "steady state iv infusion",
             "config_file": "https://raw.githubusercontent.com/AplosAnalytics/validation/main/test-06/config.json",
             "input_file": "https://raw.githubusercontent.com/AplosAnalytics/validation/main/test-06/input.csv",
