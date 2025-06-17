@@ -1,5 +1,5 @@
 # Validation
-The files in this repository are used by the validation protocol of Aplos NCA to confirm that the PK parameter calculations are accurate. This repository includes 6 different tests that correspond to each of the following routes of administration and dosing frequencies:
+The files in this repository are used by the validation protocol of Aplos NCA to confirm that the PK parameter calculations are accurate. The expected results were verified with calculations in R and Phoenix WinNonlin vesion 8.4. This repository includes 6 different tests that correspond to each of the following routes of administration and dosing frequencies:
 
 * Test 1: Single extravascular dose
 * Test 2: Single intravenous (IV) bolus dose
